@@ -29,6 +29,8 @@ Input
 
 
 Output
+
 WIN
+
 LOSE
 
